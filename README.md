@@ -1,4 +1,4 @@
 xymon-temperature
 =================
 
-Monolithic temperature script for Xymon
+Temperature script to pull temps from IPMI if available and sysctl for BSD systems
