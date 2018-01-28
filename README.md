@@ -3,7 +3,7 @@ xymon-temperature
 
 Temperature script to pull temps from IPMI if available and sysctl for BSD systems
 
-Add this to $XYMONCLIENTHOME:
+Add this to $XYMONCLIENTHOME/etc/clientlaunch.cfg:
 
 ```
 [temperature]
